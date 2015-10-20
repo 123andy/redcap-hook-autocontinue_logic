@@ -1,2 +1,6 @@
 # redcap-hook-autocontinue_logic
 This is an example of a redcap_survey_page_top.php hook that enables logic for auto-continue...
+
+If you have the hook framework applied to your server, you can add this to the server/pidxxx folder for your project and then modify the configuration array at the top of the hook and it should work...
+
+-Andy
